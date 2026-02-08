@@ -1,4 +1,4 @@
-📄 PDF-Based AI Chatbot (RAG)
+## 📄 PDF-Based AI Chatbot (RAG)
 
 A simple PDF-based AI chatbot built using Streamlit, LangChain, FAISS, and Ollama.
 Upload any PDF and ask questions — the chatbot answers only from the document content using Retrieval-Augmented Generation (RAG).
@@ -18,7 +18,7 @@ Fully offline AI chatbot
 
 Simple and interactive Streamlit UI
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 1.Python
 
@@ -34,7 +34,7 @@ Simple and interactive Streamlit UI
 
 7.PyPDF2
 
-📂 Project Workflow
+## 📂 Project Workflow
 
 1.Upload a PDF file
 
@@ -50,7 +50,7 @@ Simple and interactive Streamlit UI
 
 7.Generate answers using a local LLM
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -69,13 +69,13 @@ ollama pull tinyllama
 4️⃣ Run the Application
 streamlit run app.py
 
-🧠 Model Used
+## 🧠 Model Used
 
 TinyLLaMA (via Ollama)
 
 sentence-transformers/paraphrase-MiniLM-L3-v2 for embeddings
 
-📌 Notes
+## 📌 Notes
 
 Works completely offline after setup
 
@@ -83,7 +83,7 @@ Best suited for small to medium-sized PDFs
 
 Chunk size and overlap can be tuned for better results
 
-🎯 Future Improvements
+## 🎯 Future Improvements
 
 Chat history support
 
@@ -93,6 +93,6 @@ Source citations for answers
 
 UI enhancements
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Swapnanil Chakraborty
