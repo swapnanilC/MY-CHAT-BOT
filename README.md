@@ -4,7 +4,7 @@ A simple PDF-based AI chatbot built using Streamlit, LangChain, FAISS, and Ollam
 Upload any PDF and ask questions — the chatbot answers only from the document content using Retrieval-Augmented Generation (RAG).
 Runs fully offline with a local LLM (TinyLLaMA), no paid APIs required.
 
-🚀 Features
+🚀 **Features**:
 
 Upload and index PDF documents
 
