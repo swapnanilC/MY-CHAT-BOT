@@ -1,8 +1,8 @@
-🤝 Contributing
+## 🤝 Contributing
 
 Thank you for your interest in contributing to this project!
 
-How to Contribute?
+## How to Contribute?
 
 1.Fork the repository
 
@@ -14,7 +14,7 @@ How to Contribute?
 
 5.Open a Pull Request to the main branch
 
-Guidelines:
+## Guidelines:
 
 1.Keep code clean and readable
 
@@ -22,11 +22,11 @@ Guidelines:
 
 3.Test the app before submitting changes
 
-Issues:
+## Issues:
 
 Found a bug or have a suggestion?
 Please open an issue with details.
 
-Code of Conduct:
+## Code of Conduct:
 
 This project follows the Contributor Covenant Code of Conduct.
