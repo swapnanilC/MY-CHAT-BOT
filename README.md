@@ -20,35 +20,35 @@ Simple and interactive Streamlit UI
 
 🛠️ Tech Stack
 
-Python
+1.Python
 
-Streamlit
+2.Streamlit
 
-LangChain
+3.LangChain
 
-FAISS
+4.FAISS
 
-HuggingFace Sentence Transformers
+5.HuggingFace Sentence Transformers
 
-Ollama (TinyLLaMA)
+6.Ollama (TinyLLaMA)
 
-PyPDF2
+7.PyPDF2
 
 📂 Project Workflow
 
-Upload a PDF file
+1.Upload a PDF file
 
-Extract text from the document
+2.Extract text from the document
 
-Split text into chunks
+3.Split text into chunks
 
-Generate embeddings using HuggingFace models
+4.Generate embeddings using HuggingFace models
 
-Store vectors in FAISS
+5.Store vectors in FAISS
 
-Retrieve relevant chunks for a query
+6.Retrieve relevant chunks for a query
 
-Generate answers using a local LLM
+7.Generate answers using a local LLM
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
